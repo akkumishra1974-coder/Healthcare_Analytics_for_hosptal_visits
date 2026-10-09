@@ -1,4 +1,4 @@
-# Healthcare_Analytics_for_hospital_visits
+# Healthcare_Analytics_for_Hospital_Visits
 🎯 Problem Statement
 
 Healthcare datasets contain valuable information about health conditions and healthcare utilization. However, raw data needs to be cleaned and analyzed before meaningful patterns can be identified.
